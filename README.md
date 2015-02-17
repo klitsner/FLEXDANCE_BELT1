@@ -11,4 +11,3 @@
  * Recieving Xbee module or Arduino must be connected via serial port
  * Ableton midi-mapped file must be opened for drone section
  * Use midi stroke to map Midi controller to keystrokes in keyEvents section
- * 
